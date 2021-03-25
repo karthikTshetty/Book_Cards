@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding: 6px ;
+  
+  /* background-color:#11447778; */
+
+}
+header h1{
+  display: inline;
+  margin-left:15px;
+  font-weight: 300;
+  
+}
+header {
+  display:inline;
+  margin-left:5px;
+  font-weight: 300;
+  text-align: center;
+}
+.search-area{
+  padding:5px;
+  background:#584faf;
+}
+.listt {
+  position: absolute;
+  top: 100px;
+}
+.formtype input{height: 35px;}
+.formtype button{height: 40px;background: pink;width: 100px;border: 1px solid pink;margin:0 10px;}
+.formtype select{height: 40px;}
+
+
+
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+
